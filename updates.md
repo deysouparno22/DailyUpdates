@@ -1,3 +1,8 @@
+#### 3 Nov 2022
+#### Collage
+- Sending a build for testing of templates after integrating in collage
+
+
 #### 2 Nov 2022
 #### Collage
 - Stickers moving and zoom in zoom out feature
