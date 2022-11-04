@@ -1,3 +1,7 @@
+#### 4 Nov 2022
+#### Instore
+- Ad flow Fix
+
 #### 3 Nov 2022
 #### Collage
 - Sending a build for testing of templates after integrating in collage
