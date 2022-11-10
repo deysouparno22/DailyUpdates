@@ -1,3 +1,12 @@
+#### 10 Nov 2022
+#### Collage POC
+- Freestyle Image templates
+
+#### 9 Nov 2022
+#### Collage POC
+- Freestyle Image templates and Puzzleview initial image scaling issue 
+
+
 #### 7 Nov 2022
 #### Collage POC
 - Compatibilty check with different type of layouts in collage
