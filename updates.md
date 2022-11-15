@@ -1,3 +1,12 @@
+#### 15 Nov 2022
+#### Collage POC
+- Puzzleview layouts and bug fixes
+
+#### 11-14 Nov 2022
+#### Collage POC
+- Creating New Layouts and sticker moving out of screen issue fix
+
+
 #### 10 Nov 2022
 #### Collage POC
 - Freestyle Image templates
