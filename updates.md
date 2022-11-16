@@ -1,3 +1,8 @@
+#### 16 Nov 2022
+#### Collage POC
+- Stuck in a issue in puzzlelayout
+
+
 #### 15 Nov 2022
 #### Collage POC
 - Puzzleview layouts and bug fixes
