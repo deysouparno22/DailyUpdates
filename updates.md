@@ -1,3 +1,11 @@
+#### 21 Nov 2022
+#### Video Collage POC
+- Will start to work on video collage POC
+
+#### 17-18 Nov 2022
+#### Collage POC
+- puzzlelayout issue fix and new layouts
+
 #### 16 Nov 2022
 #### Collage POC
 - Stuck in a issue in puzzlelayout
