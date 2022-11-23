@@ -1,3 +1,7 @@
+#### 22-23 Nov 2022
+#### Video Collage POC
+- Flow revamp Creating custom a video view for our requirements 
+
 #### 21 Nov 2022
 #### Video Collage POC
 - Will start to work on video collage POC
